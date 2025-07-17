@@ -18,7 +18,7 @@ In these labs we cover topics including:
    * And much more
 
 This lab is based on pre-release code so you may notice slight differences to the GA version.
-Please use the VMware Lab Platform "Send Text" control and copy/paste from Lab Manual
+Please use the VMware Lab Platform "Send Text" control and copy/paste from Lab Manual.
 Please record account names for this lab. All acccounts use the standard Hands-On-Labs password.
 
  =============== For All Labs and Modules ================

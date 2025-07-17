@@ -2,7 +2,7 @@
 *          HOL-2637 What's New in vSphere 9 for VMware Cloud Foundation         *
 * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - *
 
-Thess labs will walk you through and highlight all the updates, new feartures and changes in 
+These labs will walk you through and highlight all the updates, new feartures and changes in 
 vSphere 9
 
 In these labs we cover topics including:

@@ -20,9 +20,9 @@ This lab is based on pre-release code so you may notice slight differences to th
 
 Please use the VMware Lab Platform "Send Text" control and copy/paste from Lab Manual
 
-Please record account names for this lab. All acccounts use the standard Hands-on Labs password.
+Please record account names for this lab. All acccounts use the standard Hands-On-Labs password.
 
-=== For All Modules ===
+=== For All Labs and Modules ===
 
 Credentials for all vCenter Operations Manager Instances:
 User name: admin

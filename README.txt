@@ -6,15 +6,15 @@ These labs will walk you through and highlight all the updates, new feartures an
 vSphere 9
 
 In these labs we cover topics including:
- * The new Licensing 
- * Memory Tiering
- * Live Patch
- * Multi-Vendor Clusters
- * Lifecycle Manager
- * Performance Monitoring and Improvements
- * Increasing Security
- * APIs and Automation using the SDK
- * And much more
+   * The new Licensing 
+   * Memory Tiering
+   * Live Patch
+   * Multi-Vendor Clusters
+   * Lifecycle Manager
+   * Performance Monitoring and Improvements
+   * Increasing Security
+   * APIs and Automation using the SDK
+   * And much more
 
 This lab is based on pre-release code so you may notice slight differences to the GA version.
 

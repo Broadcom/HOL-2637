@@ -1,19 +1,22 @@
 * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - *
-*          HOL-2630 What's New in vSphere 9 for VMware Cloud Foundation         *
+*          HOL-2637 What's New in vSphere 9 for VMware Cloud Foundation         *
 * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - *
 
-This labe will all you through and highlight all the updates, new feartures and changes in 
+Thess labs will walk you through and highlight all the updates, new feartures and changes in 
 vSphere 9
 
-In this lab we covers topics including:
+In these labs we cover topics including:
 The new Licensing 
 Memory Tiering
 Live Patch
 Multi-Vendor Clusters
 Lifecycle Manager
+Performance Monitoring and Improments
+Increasing Security
+APIs and Automation using the SDK
 And much more
 
-This lab is based on pre-release copde so you may notice slight differences to the GA version.
+This lab is based on pre-release code so you may notice slight differences to the GA version.
 
 Please use the VMware Lab Platform "Send Text" control and copy/paste from Lab Manual
 

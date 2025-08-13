@@ -1,4 +1,7 @@
-# startperf.ps1 version 1.1 8/13/2025
+# startperf.ps1 version 1.2 8/13/2025
+
+$creds = '/home/holuser/creds.txt'
+$password = Get-Content -Path $creds
 
 $labSKU = 'vSphere Performance (HOL-2637-07/08/09-VCF-L)'
 $timeNow = $(Get-Date)
@@ -6,7 +9,7 @@ Write-Host -ForegroundColor Green "`nPlease wait, starting $labSKU labs @ $timeN
 
 # Connect vC
 Write-Host "Connecting to vCenter Server..."
-Connect-VIserver -server "vc-mgmt-a.site-a.vcf.lab" -user "administrator@vsphere.local" -password "VMware123!VMware123!" | Out-Null
+Connect-VIserver -server "vc-mgmt-a.site-a.vcf.lab" -user "administrator@vsphere.local" -password $password | Out-Null
 
 # Disable DRS
 Write-Host "Configuring Cluster..."
